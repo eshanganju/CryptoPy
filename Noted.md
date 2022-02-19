@@ -79,6 +79,8 @@ Has a message been signed using the secret key (sk)?
 
 ## Websites
 - https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531
+- https://learnmeabitcoin.com/
+
 
 ## Videos
 - 3b1br: https://www.youtube.com/watch?v=bBC-nXj3Ng4 
