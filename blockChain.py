@@ -1,6 +1,12 @@
 """Creating a simple blockchain
 
-Ref: https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531
+Refs: 
+	https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531
+	https://bitcoin.org/bitcoin.pdf
+	http://www.weidai.com/bmoney.txt
+	3B1Br Bitcoin: https://www.youtube.com/watch?v=bBC-nXj3Ng4
+	
+
 """
 
 import hashlib
